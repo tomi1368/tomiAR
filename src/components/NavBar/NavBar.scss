@@ -1,0 +1,26 @@
+.navbar{
+    color: #ffedb2;
+    padding: 30px 0 5px 0;
+    &-content{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        &__brand.dark{
+            color: #ffedb2;
+        }
+        &__brand{
+            color: #fdd245;
+        }
+    &__links{
+        display: flex;
+        gap: 30px;
+        &__link.dark{
+            color: #ffedb2;
+        }
+        &__link{
+            color: #fdd245;
+        }
+    }
+    
+    }
+}

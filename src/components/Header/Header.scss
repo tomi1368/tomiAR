@@ -1,0 +1,35 @@
+.header {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-direction: column;
+  &-emoji.dark {
+    color: #ffedb2;
+  }
+  &-emoji {
+    display: inline-block;
+    color: #fdd245;
+    animation: saludar 2s 2s infinite;
+  }
+  &-about.dark {
+    color: #ffedb2;
+  }
+  &-about {
+    color: #fdd245;
+    letter-spacing: 3px;
+    list-style: none;
+  }
+}
+
+@keyframes saludar{
+  0%{
+    transform: rotate(-15deg);
+  }
+  50%{
+    transform: rotate(15deg);
+  }
+  100%{
+    transform: rotate(-15deg);
+  }
+}

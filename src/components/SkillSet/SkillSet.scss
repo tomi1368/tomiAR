@@ -1,0 +1,10 @@
+.container.skill-grid{
+    position: relative;
+    margin-top: 21rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    gap: 40px;
+    justify-items: center;
+    align-items: center;
+    margin-bottom: 100px;
+}

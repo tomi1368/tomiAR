@@ -1,0 +1,12 @@
+.skill{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.skill-img{
+    position: relative;
+    height: 8rem;
+    object-fit: contain;
+}
