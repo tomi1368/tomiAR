@@ -9,7 +9,7 @@ const Project = ({props,index}) => {
   let style = theme === "light" ? "" : "dark"
 
   
-  let links = ["https://wiki-rickandmorty.netlify.app/", "","https://tomi1368.github.io/reduxcrud2.github.io/","https://tomi1368.github.io/automarket.github.io/"]
+  let links = ["https://wiki-rickandmorty.netlify.app/", "https://tommern-crud.netlify.app/","https://tomi1368.github.io/reduxcrud2.github.io/","https://tomi1368.github.io/automarket.github.io/"]
   return (
     <div className={`project-card ${style}`}>
       <div className="project-card__text">
