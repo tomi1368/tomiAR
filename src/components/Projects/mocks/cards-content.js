@@ -2,7 +2,7 @@ const cardsContent = [
     {
         team:"Groupal",
         title:"Rick & Morty App",
-        subtitle:"App based on Rick and Morty series, this app allow you Interact and Learn abaout Rick and Morty world. You can see the content if you are a unregisted user. But, if you are a registed user you can modified the content",
+        subtitle:"App based on Rick and Morty series. This app allow you to Interact and Learn about Rick and Morty's universe. If you are an unregisted user, you'll only can see the content. But, if you are a registed user, you'll also can modified the content",
         tags:["ReactJS","MongoDB","Mongo Atlas","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt"],
         img:"https://staticuestudio.blob.core.windows.net/buhomag/2017/01/26010223/rick-y-morty-3.jpg"
     },
@@ -16,7 +16,7 @@ const cardsContent = [
     {
         team:"Individual",
         title:"Redux CRUD",
-        subtitle:"CRUD but this one I used Redux to make it",
+        subtitle:" It´s a Users CRUD but this one was made with Redux",
         tags:["Redux","MongoDB","ReactJS","Express","ReactHooks","React-Router","Responsive Design"],
         img:"https://i.ibb.co/HD03QqY/2021-12-22-16h25-24.png",
         url:"https://tomi1368.github.io/automarket.github.io/"
@@ -32,7 +32,7 @@ const cardsContent = [
     {
         team:"Individual",
         title:"Dev Place Challenge",
-        subtitle:"A website about car sales. With this project I enter DevPlace",
+        subtitle:"A website about car sales. With this project I enter in DevPlace",
         tags:["HTML5","SASS","JavaScript","SweetAlertJS","Responsive Design"],
         img:"https://i.ibb.co/9g457zQ/2021-12-22-12h57-20.png",
         url:"https://tomi1368.github.io/automarket.github.io/"

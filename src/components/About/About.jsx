@@ -47,7 +47,7 @@ const About = () => {
                 In my beginning I made websites for local shops using HTML/CSS/JS. In november 2021, I entered into a <span style={{color:`${theme === "light" ? "#eac638": "#ffedb2" }`,textShadow:"1px 1px 1px #000" , fontWeight:"700"}}>ReactJS Bootcamp</span>, learning about the real Front-End world in the meantime I reinforce my knowledge by learning from backend with <span style={{color:`${theme === "light" ? "#eac638": "#ffedb2" }`,textShadow:"1px 1px 1px #000", fontWeight:"600"}}>MongoDB and NodeJS</span>.
             </motion.p>
             <motion.p variants={item}>
-              Meanwhile I have been studying a career in  <span style={{color:`${theme === "light" ? "#eac638": "#ffedb2" }`, fontWeight:"600",textShadow:"1px 1px 1px #000" }}>systems engineering</span>. I´m studying in UTN FRD. In 2022 i going to course third grade subjects.
+            Meanwhile I've studying a Systems Engineering career
             </motion.p>
             <motion.p variants={item}>
                 In my free time, I enjoy playing football, going to gym, and seeing FullStack Youtube videos.

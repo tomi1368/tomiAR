@@ -32,7 +32,7 @@ const Header = () => {
 
     return (
         <motion.header variants={container} initial="hidden" animate="visible" className="container header">
-            <motion.h1 variants={item}>Hello <span className={`header-emoji ${style}`}>&#128400;</span>, I´m Tomas Rodriguez. I´am a self-taught Front-End Developer with a knowledge about JS Backend</motion.h1>
+            <motion.h1 variants={item}>Hello <span className={`header-emoji ${style}`}>&#128400;</span>, I´m Tomas Rodriguez. I´am a FullStack Developer Jr and Systems Enginnering  Student </motion.h1>
             <NavLink className={`header-about ${style}`} to="/about">
                 <motion.li style={{color:`${theme === "light" ? "#f7cf2e" : "#ffedb2"}`,fontWeight:"600" }} variants={item}>
                 Know More About Me ➝
