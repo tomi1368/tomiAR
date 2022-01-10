@@ -1,5 +1,12 @@
 const cardsContent = [
     {
+        team:"Individual",
+        title:"MERN-Redux Amazon",
+        subtitle:"An Amazon clone developed in React. The payments were made with Mercado Pago API",
+        tags:["ReactJS","MongoDB","Mercado Pago API","Mongo Atlas","React Slick","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt"],
+        img:"https://i.ibb.co/LgXSL3D/2022-01-10-14h11-03.png"
+    },
+    {
         team:"Groupal",
         title:"Rick & Morty App",
         subtitle:"App based on Rick and Morty series. This app allow you to Interact and Learn about Rick and Morty's universe. If you are an unregisted user, you'll only can see the content. But, if you are a registed user, you'll also can modified the content",
@@ -36,7 +43,7 @@ const cardsContent = [
         tags:["HTML5","SASS","JavaScript","SweetAlertJS","Responsive Design"],
         img:"https://i.ibb.co/9g457zQ/2021-12-22-12h57-20.png",
         url:"https://tomi1368.github.io/automarket.github.io/"
-    },
+    }
 ]
 
 export default cardsContent
