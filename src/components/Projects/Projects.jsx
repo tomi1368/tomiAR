@@ -25,7 +25,7 @@ const Projects = () => {
 
     return (
         <motion.section variants={container} initial="hidden" animate="visible" className="container projects">
-            {cardsContent.map((card,i)=><Project key={i} index={i} props={card}></Project>)}
+            {cardsContent.map((card,i)=><Project key={i} url={card.url} index={i} props={card}></Project>)}
             <div className="projects-span">
             <span className={`projects-span__line ${style}`}></span><span className={`projects-span__text ${style}`}>WORK</span>
             </div>

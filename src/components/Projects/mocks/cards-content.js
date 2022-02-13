@@ -4,28 +4,32 @@ const cardsContent = [
         title:"MERN-Redux Amazon",
         subtitle:"An Amazon clone developed in React. The payments were made with Mercado Pago API",
         tags:["ReactJS","MongoDB","Mercado Pago API","Mongo Atlas","React Slick","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt"],
-        img:"https://i.ibb.co/LgXSL3D/2022-01-10-14h11-03.png"
+        img:"https://i.ibb.co/LgXSL3D/2022-01-10-14h11-03.png",
+        url:""
     },
     {
         team:"Individual",
         title:"QUIZ React-TS",
         subtitle:"Video Games Quizzes. Think you are a true Video Games expert? Take a quiz below to find out if you're right.",
         tags:["ReactJS","React Hooks", "TypeScript","SASS"],
-        img:"https://i.ibb.co/vd3CWwy/2022-02-13-19h09-57.png"
+        img:"https://i.ibb.co/vd3CWwy/2022-02-13-19h09-57.png",
+        url:"https://game-quiz-reactts.netlify.app"
     },
     {
         team:"Groupal",
         title:"Rick & Morty App",
         subtitle:"App based on Rick and Morty series. This app allow you to Interact and Learn about Rick and Morty's universe. If you are an unregisted user, you'll only can see the content. But, if you are a registed user, you'll also can modified the content",
         tags:["ReactJS","MongoDB","Mongo Atlas","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt"],
-        img:"https://staticuestudio.blob.core.windows.net/buhomag/2017/01/26010223/rick-y-morty-3.jpg"
+        img:"https://staticuestudio.blob.core.windows.net/buhomag/2017/01/26010223/rick-y-morty-3.jpg",
+        url:"https://wiki-rickandmorty.netlify.app/"
     },
     {   
         team:"Individual",
         title:"MERN-CRUD",
         subtitle:"Create-Read-Update-Delete any user that you want. You can search one too",
         tags:["ReactJS","MongoDB","Mongo Atlas","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt"],
-        img:"https://i.ibb.co/0ycYLr3/2021-12-22-14h25-47.png"
+        img:"https://i.ibb.co/0ycYLr3/2021-12-22-14h25-47.png",
+        url:"https://tommern-crud.netlify.app"
     },
     {
         team:"Individual",
