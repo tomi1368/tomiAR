@@ -7,6 +7,13 @@ const cardsContent = [
         img:"https://i.ibb.co/LgXSL3D/2022-01-10-14h11-03.png"
     },
     {
+        team:"Individual",
+        title:"QUIZ React-TS",
+        subtitle:"Video Games Quizzes. Think you are a true Video Games expert? Take a quiz below to find out if you're right.",
+        tags:["ReactJS","React Hooks", "TypeScript","SASS"],
+        img:"https://i.ibb.co/vd3CWwy/2022-02-13-19h09-57.png"
+    },
+    {
         team:"Groupal",
         title:"Rick & Morty App",
         subtitle:"App based on Rick and Morty series. This app allow you to Interact and Learn about Rick and Morty's universe. If you are an unregisted user, you'll only can see the content. But, if you are a registed user, you'll also can modified the content",
