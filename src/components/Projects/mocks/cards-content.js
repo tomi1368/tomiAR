@@ -9,6 +9,14 @@ const cardsContent = [
     },
     {
         team:"Individual",
+        title:"Wallet Alkemy",
+        subtitle:"My Wallet app shows you everything you want to see in order to understand where you've been spending your money",
+        tags:["ReactJS","MongoDB","Mongo Atlas","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt","SASS"],
+        img:"https://i.ibb.co/Hds2XVH/2022-03-23-08h29-55.png",
+        url:"https://walletalkemy.netlify.app/"
+    },
+    {
+        team:"Individual",
         title:"QUIZ React-TS",
         subtitle:"Video Games Quizzes. Think you are a true Video Games expert? Take a quiz below to find out if you're right.",
         tags:["ReactJS","React Hooks", "TypeScript","SASS"],
