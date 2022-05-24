@@ -17,6 +17,23 @@ const cardsContent = [
     },
     {
         team:"Individual",
+        title:"Image Upload on AWS",
+        subtitle:"Using Splash API you can upload an image to AWS S3 bucket",
+        tags:["Express","MongoDB","Mongo Atlas","AWS S3","Unsplash API","JWT","Bcrypt"],
+        img:"https://niixer.com/wp-content/uploads/2020/10/amazon-s3.png",
+        url:"https://github.com/tomi1368/aluxion-server"
+    },
+    {
+        team:"Individual",
+        title:"Referral System",
+        subtitle:"Invite your friends and earn $500",
+        tags:["ReactJS","MongoDB","Mongo Atlas","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt","SASS"],
+        img:"https://www.pichincha.com/portal/portals/0/adam/pichinchablog/52jkxfv-qu6jwdqh3m36rg/image/friends.jpg",
+        url:"https://github.com/tomi1368/currencySpa"
+    },
+    
+    {
+        team:"Individual",
         title:"QUIZ React-TS",
         subtitle:"Video Games Quizzes. Think you are a true Video Games expert? Take a quiz below to find out if you're right.",
         tags:["ReactJS","React Hooks", "TypeScript","SASS"],
