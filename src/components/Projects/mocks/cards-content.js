@@ -2,7 +2,7 @@ const cardsContent = [
     {
         team:"Individual",
         title:"MERN-Redux Amazon",
-        subtitle:"An Amazon clone developed in React. The payments were made with Mercado Pago API",
+        subtitle:"An Amazon clone developed in React. Payment System was made with Mercado Pago API",
         tags:["ReactJS","MongoDB","Mercado Pago API","Mongo Atlas","React Slick","Express","ReactHooks","React-Router","Responsive Design","JWT","Bcrypt"],
         img:"https://i.ibb.co/LgXSL3D/2022-01-10-14h11-03.png",
         url:""
